@@ -39,13 +39,8 @@ class DetailViewController: UIViewController {
         tempCity.text = ("\((weatherModel?.temperatureString)!)°C")
         pressureLabel.text = "\((weatherModel?.pressureMm)!)мм"
         windSpeedLabel.text = "\((weatherModel?.windSpeed)!)м/с"
-        minTempLabel.text = "\((weatherModel?.temp_min)!)°C"
         maxTempLabel.text = "\((weatherModel?.temp_max)!)°C"
-    }
-    
-    func widget(){
-        refreshLabels()
-        return 
+        minTempLabel.text = "\((weatherModel?.temp_min)!)°C"
     }
 
 }

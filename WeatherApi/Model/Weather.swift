@@ -7,9 +7,9 @@
 
 import Foundation
 
-public struct Weather{
+struct Weather{
     
-    public var name: String = "Название"
+    var name: String = "Название"
     var temperature: Double = 0.0
     var temperatureString: String {
         return String(format: "%.0f",temperature)
@@ -58,6 +58,6 @@ public struct Weather{
         temp_max = weatherData.forecasts.first!.parts.day.temp_max!
     }
     
-    public init(){}
+    init(){}
     
 }
