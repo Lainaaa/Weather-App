@@ -1,5 +1,5 @@
 # Weather-App
-<img src="https://user-images.githubusercontent.com/55667177/220427706-dd03ae72-efcb-4674-8301-4b97feda7668.png" width="300" height="630">         <img src="https://user-images.githubusercontent.com/55667177/220428097-289857a1-1bdb-40ca-b545-5c0034cf4bfa.png" width="300" height="630">         <img src="https://user-images.githubusercontent.com/55667177/220428399-3749ffa0-77e4-4c08-8af4-cb63cb68e1dc.png" width="300" height="630">
+<img src="https://user-images.githubusercontent.com/55667177/220427706-dd03ae72-efcb-4674-8301-4b97feda7668.png" width="250" height="540">         <img src="https://user-images.githubusercontent.com/55667177/220428097-289857a1-1bdb-40ca-b545-5c0034cf4bfa.png" width="250" height="540">         <img src="https://user-images.githubusercontent.com/55667177/220428399-3749ffa0-77e4-4c08-8af4-cb63cb68e1dc.png" width="250" height="540">
 
 # Installation
 
