@@ -10,6 +10,10 @@ Weather uses the [Yandex Weather API](https://yandex.ru/dev/weather/doc/dg/conce
 2. Open the project, and go to the `Key.swift` file.
 3. Replace `let apiKey = ""` by your key.
 
+## Why?
+
+I'm currently learning Swift and I made this project to practice with requests, APIs as well as UI and more.
+
 ## Contribution
 
 Feel free to contribute to this very basic project.
