@@ -14,9 +14,6 @@ Weather uses the [Yandex Weather API](https://yandex.ru/dev/weather/doc/dg/conce
 
 I'm currently learning Swift and I made this project to practice with requests, APIs as well as UI and more.
 
-## Contribution
-
-Feel free to contribute to this very basic project.
 
 ## Author
 
